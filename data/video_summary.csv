@@ -1,0 +1,8 @@
+metric,display_value,notes
+cohort_size,346,"Traditional IPOs among current S&P 500 / Nasdaq-100 names after exclusions"
+ever_below_first_day_close_1m,"nearly 4 in 5","Rounded value used in the video"
+ever_below_first_day_close_1y,"~90%","Rounded value used in the video"
+cheaper_at_fixed_6m,"~35%","Price at the scheduled six-month check versus first-day close"
+median_raw_return_1y,"~16%","Median one-year return from first-day close"
+median_sp500_relative_return_1y,"~9%","Median stock return minus S&P 500 return over the same dates"
+post_2010_median_sp500_relative_return_1y,"~3%","Rounded subgroup result for IPOs since 2010"
